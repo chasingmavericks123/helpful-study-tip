@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+head {
+}
+h1 {
+  color: maroon;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+  
+}
+h2 {
+  color: maroon;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+  
+}
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+
+body {
+  background-color: white;
+}
